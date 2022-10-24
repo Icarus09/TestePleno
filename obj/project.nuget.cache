@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "080S8yxryOZK8t6HOTaoB8KRTCEZ13dWNhPIrFKkEgoAtgUX7eRQzjpaps0q+ZrFePw/JWHdO96RfSXCEJ+vRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\TestePleno\\TestePleno.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}
